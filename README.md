@@ -99,3 +99,11 @@ Never upload secrets.h or screenshots containing credentials.
 
 Pau Serrano Romay
 https://github.com/pausse
+
+## Prototype photos
+
+### DHT22 sensor on the breadboard
+![DHT22 sensor mounted on a breadboard](images/dht22-breadboard.jpeg)
+
+### ESP32 development board
+![ESP32 development board connected via USB](images/esp32-board.jpeg)
