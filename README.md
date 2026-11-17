@@ -103,7 +103,7 @@ https://github.com/pausse
 ## Prototype photos
 
 ### DHT22 sensor on the breadboard
-![DHT22 sensor mounted on a breadboard](images/dht22-breadboard.jpeg)
+![DHT22 sensor mounted on a breadboard](images/IMG_9169.jpeg)
 
 ### ESP32 development board
-![ESP32 development board connected via USB](images/esp32-board.jpeg)
+![ESP32 development board connected via USB](images/IMG_9171.PNG)
